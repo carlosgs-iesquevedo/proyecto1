@@ -5,3 +5,8 @@
 * item 3
 ## Esto es un enlace externo
 [google](http://www.google.es)
+
+## Esto es un bloque de código
+```java
+System.out.println()
+```
